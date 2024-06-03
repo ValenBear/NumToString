@@ -1,0 +1,66 @@
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.csproj.AssemblyReference.cache
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.AssemblyInfoInputs.cache
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.AssemblyInfo.cs
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.csproj.CoreCompileInputs.cache
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\appsettings.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\NTS.exe
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\NTS.deps.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\NTS.runtimeconfig.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\NTS.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\NTS.pdb
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets\msbuild.NTS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets\msbuild.build.NTS.props
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NTS.props
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NTS.props
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\scopedcss\bundle\NTS.styles.css
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.csproj.CopyComplete
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\refint\NTS.dll
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.pdb
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\NTS.genruntimeconfig.cache
+C:\Users\El valen Pa\Documents\cosas-valen\vscode\Ospecon\NTS\obj\Debug\net7.0\ref\NTS.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\appsettings.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\NTS.exe
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\NTS.deps.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\NTS.runtimeconfig.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\NTS.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\NTS.pdb
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.csproj.AssemblyReference.cache
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.AssemblyInfoInputs.cache
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.AssemblyInfo.cs
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.csproj.CoreCompileInputs.cache
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets\msbuild.NTS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets\msbuild.build.NTS.props
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NTS.props
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NTS.props
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\scopedcss\bundle\NTS.styles.css
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.csproj.Up2Date
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\refint\NTS.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.pdb
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.genruntimeconfig.cache
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\ref\NTS.dll
