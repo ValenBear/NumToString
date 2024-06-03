@@ -87,7 +87,7 @@ public class NTSCotroller : ControllerBase
                     return NumToStrVeinti(numero);
                 }
                 else
-                    return decenas[numero / 10] + " y " + NumToStrUnidades(numero % 10);
+                    return decenas[numero / 10] + " y " + NumToStr(numero % 10);
         }
         else return "error";
     }
@@ -97,7 +97,7 @@ public class NTSCotroller : ControllerBase
         if (numero < 20 && numero > 15)
         {
             numero = numero % 10;
-            return "dieci" + NumToStrUnidades(numero);
+            return "dieci" + NumToStr(numero);
         }
         if (numero == 20)
         {
@@ -111,7 +111,7 @@ public class NTSCotroller : ControllerBase
         if (numero < 30 && numero > 20)
         {
             numero = numero % 10;
-            return "veinti" + NumToStrUnidades(numero);
+            return "veinti" + NumToStr(numero);
         }
         if (numero == 30)
         {
@@ -151,7 +151,7 @@ public class NTSCotroller : ControllerBase
         else return "error";
     }
 
-     private string NumToStrMillones(long numero)
+    private string NumToStrMillones(long numero)
     {
         if (numero >= 1000000)
         {

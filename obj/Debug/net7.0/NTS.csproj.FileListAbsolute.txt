@@ -64,3 +64,4 @@ C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\refint\NT
 C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.pdb
 C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.genruntimeconfig.cache
 C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\ref\NTS.dll
+C:\Users\vbearzotti.RSUOCRA\Documents\work\vscode\NTS\obj\Debug\net7.0\NTS.sourcelink.json
